@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\sqlite\sqlite3.dll=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=C:\Users\Kvosya\Desktop\sqlite-amalgamation-3350500\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\sqlite\sqlite3.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,=C:\Users\Kvosya\Desktop\VirtualTreeView\Changes.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Kvosya\Desktop\Unit1.h=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,C:\Users\Kvosya\Desktop\NewProject\Project1.cbproj=C:\Users\Kvosya\Desktop\Sqlite\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Kvosya\Desktop\Unit1.cpp=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,=C:\Users\Kvosya\Desktop\NewProject\sqlite3.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=C:\Users\Kvosya\Desktop\NewProject\sqlite3.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,=C:\Users\Kvosya\Desktop\NewProject\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,=C:\Users\Kvosya\Desktop\NewProject\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,=C:\Users\Kvosya\Desktop\VirtualTreeView\INSTALL.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,C:\Users\Kvosya\Desktop\Project1.cbproj=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,=C:\Users\Kvosya\Desktop\NewProject\sqlite3ext.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=C:\Users\Kvosya\Desktop\NewProject\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,C:\Users\Kvosya\Desktop\Sqlite\Project1.cbproj=C:\Users\Kvosya\Desktop\NewProject\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,C:\Users\Kvosya\Desktop\Unit1.dfm=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.957,=C:\sqlite\sqlite3.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\sqlite\sqlite3.def=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,=C:\Users\Kvosya\Desktop\sqlite-amalgamation-3350500\sqlite3ext.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,C:\Users\Kvosya\Desktop\NewProject\Project1PCH1.h=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,=C:\Users\Kvosya\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Kvosya\Desktop\NewProject\Project1PCH1.h=</Transaction>
+    <Transaction>2021.06.15 15:13:44.001,C:\Users\Kvosya\Desktop\NewProject\Project1.cbproj=C:\Users\Kvosya\Desktop\NewProject\Project1.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Desktop"/>
+    <File Path="..\sqlite-amalgamation-3350500"/>
+    <File Path="..\sqlite-amalgamation-3350500\sqlite3ext.h"/>
+    <File Path="..\VirtualTreeView"/>
+    <File Path="..\VirtualTreeView\Changes.txt"/>
+    <File Path="..\VirtualTreeView\INSTALL.txt"/>
+    <File Path="sqlite3.c"/>
+    <File Path="sqlite3.def"/>
+    <File Path="sqlite3.dll"/>
+    <File Path="sqlite3.h"/>
+    <File Path="sqlite3ext.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Project1.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
